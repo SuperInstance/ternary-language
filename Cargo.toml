@@ -1,0 +1,6 @@
+[package]
+name = "ternary-language"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Language and grammar processing with ternary sentiment"
