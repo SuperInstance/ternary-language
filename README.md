@@ -119,3 +119,11 @@ Part of the **SuperInstance** ternary computing suite:
 ## License
 
 MIT
+
+## See Also
+- **ternary-compiler** — related
+- **ternary-grammar** — related
+- **ternary-language-evolution** — related
+- **ternary-markov** — related
+- **ternary-regex** — related
+
